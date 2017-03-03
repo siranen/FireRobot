@@ -1,11 +1,12 @@
-FireRobot
+FireRobot - in progress
 =========
 
-<strong>WARNING!</strong> This extension will not work from Firefox 47 onward. This is due to the deprecation and removal of the FUEL library. Alternatives to this library would not support the full range of functionality that this extension provides.
-<br/>
-Also, the extension current implementation makes it incompatible with the Firefox signing system. Basically, once you run a test from the extension, a file is written into the extension folder and the signature becomes invalid.
-<br/>
-If you still want to use this extension I advise to downgrade to Firefox 45 or lower and disable signature verification by going to about:config and setting xpinstall.signatures.required to false. Details can be found here: https://wiki.mozilla.org/Add-ons/Extension_Signing. Beware that this change will impact the verification of all installed extensions.
+<strong>WARNING!</strong> 
+
+I want to make this exstension working once again on newset firefox - old version was made by joao-carloto. 
+
+This is a fork for contest about programming - it will be my source code respository for rewriting to newest firefox engine.
+Help me - Star :)
 
 WHAT IS FIREROBOT?
 
@@ -51,5 +52,5 @@ HOW TO USE FIREROBOT?
 
 
 Disclaimer: This tool is being released publicly because it is believed to have reached a stage where it can be helpful. However, most of it was written when the author should be sleeping, and it was not submitted to exhaustive testing.
-If you feel this project might be helpful to you, please contribute by providing feedback at https://github.com/joao-carloto/FireRobot/issues. 
-Bugs, new features, small improvements, all are welcome. They will be addressed when possible.
+
+<strong>Bugs, new features, small improvements, all are welcome. They will be addressed when possible.</strong>
